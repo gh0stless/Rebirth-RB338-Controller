@@ -1,0 +1,356 @@
+--------------------------------------------------------------------------------
+Translator Name    : Spatial InterOp Connect ( Version : 2022 1.0.1 )
+System Name        : Windows_NT
+Machine Name       : HAL2019
+User Name          : andre
+Source System      : SOLIDWORKS
+Destination System : ACIS
+Input File         : E:\Users\andreas\Documents\Eigene Projekte\Projekt Rebirth-Deck\momentary-push-button-switch-5.snapshot.1\pushbutton ASM.SLDASM
+Output File        : C:\Users\andre\AppData\Local\Temp\Convert\~_A6D5.asat
+Start Time         : Mon Nov 21 16:56:38 2022
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : TranslateSuppressedEntities : false
+Message : ReadVisibleLayerOnly : true
+Message : TranslateFreePoints : true
+Message : TranslateFreeCurves : true
+Message : Flatten : false
+Message : SetAuthorName : 3D-Tool
+Message : AssemblySearchPath : E:\Users\andreas\Documents\Eigene Projekte\Projekt Rebirth-Deck\momentary-push-button-switch-5.snapshot.1
+Message : TranslateWorkPlanes : false
+Message : TranslateHiddenEntities : false
+Message : TranslateAttributes : true
+Message : Representation : Assembly
+Message : TranslateAssemblies : true
+Message : Healing : true
+Message : AuthorName : 3D-Tool
+Message : EnableWideCharacter : true
+Message : ===========================
+-------------------------Source File Header Information-------------------------
+Modification Date        : 
+Last Saved Path          : D:\Projects\amber\pushbutton ASM.SLDASM
+File Name                : pushbutton ASM.SLDASM
+Source System            : Solidworks
+Version                  : SolidWorks 2019
+Document Type            : Assembly
+Active Configuration     : Default
+Configurations Count     : 1
+Configuration0           : Default
+Configuration ID0        : 0
+Units                    : MILLIMETER
+Format Type              : SOLIDWORKS
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start Assembly
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Assembly Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Assembly Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start Translation of Part Definition Document In Assembly
+--------------------------------------------------------------------------------
+Source System      : SOLIDWORKS
+Destination System : ACIS
+Start Time         : Mon Nov 21 16:56:44 2022
+
+--------------------------------------------------------------------------------
+-------------------------Source File Header Information-------------------------
+Modification Date        : 
+Last Saved Path          : D:\Projects\amber\momentary pushbutton.SLDPRT
+File Name                : momentary pushbutton.SLDPRT
+Source System            : Solidworks
+Version                  : SolidWorks 2019
+Document Type            : Part
+Active Configuration     : Default
+Configurations Count     : 1
+Configuration0           : Default
+Configuration ID0        : 0
+Units                    : MILLIMETER
+Format Type              : SOLIDWORKS
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : TranslateSuppressedEntities : false
+Message : ReadVisibleLayerOnly : true
+Message : TranslateFreePoints : true
+Message : TranslateFreeCurves : true
+Message : Flatten : false
+Message : SetAuthorName : 3D-Tool
+Message : AssemblySearchPath : E:\Users\andreas\Documents\Eigene Projekte\Projekt Rebirth-Deck\momentary-push-button-switch-5.snapshot.1
+Message : TranslateWorkPlanes : false
+Message : TranslateHiddenEntities : false
+Message : TranslateAttributes : true
+Message : ConfigName : Default
+Message : TranslateAssemblies : true
+Message : Healing : true
+Message : AuthorName : 3D-Tool
+Message : EnableWideCharacter : true
+Message : ===========================
+-------------------------Source File Header Information-------------------------
+Modification Date        : 
+Last Saved Path          : D:\Projects\amber\momentary pushbutton.SLDPRT
+File Name                : momentary pushbutton.SLDPRT
+Source System            : Solidworks
+Version                  : SolidWorks 2019
+Document Type            : Part
+Active Configuration     : Default
+Configurations Count     : 1
+Configuration0           : Default
+Configuration ID0        : 0
+Units                    : MILLIMETER
+Format Type              : SOLIDWORKS
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+------------------------Representation Conversion Summary-----------------------
+No. of Acorn Bodies                       :    0
+No. of Mixed Bodies                       :    0
+No. of Solid Bodies                       :    1
+No. of Wire Bodies                        :    0
+No. of Free Surfaces                      :    0
+No. of Free Curves                        :    0
+No. of Sheet Bodies                       :    0
+No. of Free Points                        :    0
+--------------------------------------------------------------------------------
+BRep Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start DocumentFeature
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End DocumentFeature
+------------------------Representation Conversion Summary-----------------------
+No. of Selection Sets                     :    0
+No. of Working Coordinate Systems         :    0
+No. of Associative Groups                 :    0
+No. of Layer Filters                      :    0
+--------------------------------------------------------------------------------
+DocumentFeature Conversion Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of DocumentFeature Representation :    0
+No. of Items of BRep Representation            :    1
+--------------------------------------------------------------------------------
+Finish Time : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End Translation of Part Definition Document In Assembly
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start Translation of Part Definition Document In Assembly
+--------------------------------------------------------------------------------
+Source System      : SOLIDWORKS
+Destination System : ACIS
+Start Time         : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+-------------------------Source File Header Information-------------------------
+Modification Date        : 
+Last Saved Path          : D:\Projects\amber\momentary button nut.SLDPRT
+File Name                : momentary button nut.SLDPRT
+Source System            : Solidworks
+Version                  : SolidWorks 2019
+Document Type            : Part
+Active Configuration     : Default
+Configurations Count     : 1
+Configuration0           : Default
+Configuration ID0        : 0
+Units                    : MILLIMETER
+Format Type              : SOLIDWORKS
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : TranslateSuppressedEntities : false
+Message : ReadVisibleLayerOnly : true
+Message : TranslateFreePoints : true
+Message : TranslateFreeCurves : true
+Message : Flatten : false
+Message : SetAuthorName : 3D-Tool
+Message : AssemblySearchPath : E:\Users\andreas\Documents\Eigene Projekte\Projekt Rebirth-Deck\momentary-push-button-switch-5.snapshot.1
+Message : TranslateWorkPlanes : false
+Message : TranslateHiddenEntities : false
+Message : TranslateAttributes : true
+Message : ConfigName : Default
+Message : TranslateAssemblies : true
+Message : Healing : true
+Message : AuthorName : 3D-Tool
+Message : EnableWideCharacter : true
+Message : ===========================
+-------------------------Source File Header Information-------------------------
+Modification Date        : 
+Last Saved Path          : D:\Projects\amber\momentary button nut.SLDPRT
+File Name                : momentary button nut.SLDPRT
+Source System            : Solidworks
+Version                  : SolidWorks 2019
+Document Type            : Part
+Active Configuration     : Default
+Configurations Count     : 1
+Configuration0           : Default
+Configuration ID0        : 0
+Units                    : MILLIMETER
+Format Type              : SOLIDWORKS
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+------------------------Representation Conversion Summary-----------------------
+No. of Acorn Bodies                       :    0
+No. of Mixed Bodies                       :    0
+No. of Solid Bodies                       :    1
+No. of Wire Bodies                        :    0
+No. of Free Surfaces                      :    0
+No. of Free Curves                        :    0
+No. of Sheet Bodies                       :    0
+No. of Free Points                        :    0
+--------------------------------------------------------------------------------
+BRep Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start DocumentFeature
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End DocumentFeature
+------------------------Representation Conversion Summary-----------------------
+No. of Selection Sets                     :    0
+No. of Working Coordinate Systems         :    0
+No. of Associative Groups                 :    0
+No. of Layer Filters                      :    0
+--------------------------------------------------------------------------------
+DocumentFeature Conversion Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of DocumentFeature Representation :    0
+No. of Items of BRep Representation            :    1
+--------------------------------------------------------------------------------
+Finish Time : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End Translation of Part Definition Document In Assembly
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Assembly Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Assembly Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End Assembly
+Assembly Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+--------------------------------------------------------------------------------
+Message : Setting save mode for ACIS file based on the file extension
+Output File "C:\Users\andre\AppData\Local\Temp\Convert\~_A6D5.asat" is Successfully Written
+--------------------------------------------------------------------------------
+Finish Time : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------

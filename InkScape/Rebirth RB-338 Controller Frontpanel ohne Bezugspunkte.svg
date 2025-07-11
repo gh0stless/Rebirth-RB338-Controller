@@ -1,0 +1,1032 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="304.400mm" height="161.800mm" version="1.1"
+     viewBox="0 0 304.400 161.800"
+     xmlns="http://www.w3.org/2000/svg"     xmlns:xlink="http://www.w3.org/1999/xlink" 
+     xmlns:fpd="http://www.schaeffer-ag.de">
+  <desc>This drawing was created with Front Panel Designer by exporting the file 'Rebirth RB-338 Controller Frontpanel.fpd'.</desc>
+  <defs>
+    <pattern id="revside-fill" x="1" y="1" width="3.044" height="3.044" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="3.044" y2="3.044" style="stroke-width:0.304; stroke:black; stroke-dasharray:none;"/>
+      <line x1="0" y1="3.044" x2="3.044" y2="0" style="stroke-width:0.304; stroke:black;stroke-dasharray:none;"/>
+    </pattern>
+    <pattern id="revside-fill-silver" x="1" y="1" width="3.044" height="3.044" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="3.044" y2="3.044" style="stroke-width:0.304; stroke:#e0e0e0; stroke-dasharray:none;" />
+      <line x1="0" y1="3.044" x2="3.044" y2="0" style="stroke-width:0.304; stroke:#e0e0e0; stroke-dasharray:none;" />
+    </pattern>
+  </defs>
+  <g transform="matrix(1.000000 0.000000 0.000000 -1.000000 0.000000 161.800000)"   fill-rule="evenodd"
+   style="stroke-linecap:round; stroke-linejoin:round; stroke-opacity:1.0;">
+    <g fpd:print_element="0" fpd:visible="front"  >
+      <path  d="
+       M301.400 161.800
+       A3.000,3.000 0 0,0 304.400,158.800
+       L304.400 3.000
+       A3.000,3.000 0 0,0 301.400,0.000
+       L3.000 0.000
+       A3.000,3.000 0 0,0 0.000,3.000
+       L0.000 158.800
+       A3.000,3.000 0 0,0 3.000,161.800
+       L301.400 161.800
+       "
+       fill="#c0c0c0" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="2.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(9.110 141.005)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(9.110 110.505)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(42.930 141.005)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(42.930 110.505)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(76.750 141.005)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(76.750 110.505)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(110.570 141.005)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(110.570 110.505)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(144.400 141.005)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(144.400 110.505)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(178.220 141.005)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(178.220 110.505)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(212.040 141.005)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(212.040 110.505)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(245.860 141.005)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(245.860 110.505)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(279.680 141.005)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(279.680 110.505)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(95.920 83.535)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(95.920 61.035)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(95.920 38.535)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(137.620 61.035)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(137.620 38.535)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(137.620 83.535)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(230.900 83.585)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(230.900 61.035)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(230.900 38.585)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(272.900 61.035)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(272.900 38.535)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="back"  transform="translate(272.900 83.585)">
+      <path  d="
+       M-1.250 0.000
+       A1.250,1.250 0 1,0 1.250,0.000
+A1.250,1.250 0 1,0 -1.250,0.000
+       "
+       fill="url(#revside-fill-silver)" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(16.910 141.005)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(50.730 141.005)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(84.550 141.005)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(118.370 141.005)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(152.200 141.005)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(186.020 141.005)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(219.840 141.005)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(253.660 141.005)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(287.480 141.005)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(16.910 110.505)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(50.730 110.505)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(84.550 110.505)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(118.370 110.505)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(152.200 110.505)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(186.020 110.505)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(219.840 110.505)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(253.660 110.505)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(287.480 110.505)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(16.910 61.035)">
+      <path  d="
+       M-1.500 -16.480
+       A1.500,1.500 0 0,1 0.000,-17.980
+       A1.500,1.500 0 0,1 1.500,-16.480
+       L1.500 16.480
+       A1.500,1.500 0 0,1 0.000,17.980
+       A1.500,1.500 0 0,1 -1.500,16.480
+       L-1.500 -16.480
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(33.820 61.035)">
+      <path  d="
+       M-1.500 -16.480
+       A1.500,1.500 0 0,1 0.000,-17.980
+       A1.500,1.500 0 0,1 1.500,-16.480
+       L1.500 16.480
+       A1.500,1.500 0 0,1 0.000,17.980
+       A1.500,1.500 0 0,1 -1.500,16.480
+       L-1.500 -16.480
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(50.730 61.035)">
+      <path  d="
+       M-1.500 -16.480
+       A1.500,1.500 0 0,1 0.000,-17.980
+       A1.500,1.500 0 0,1 1.500,-16.480
+       L1.500 16.480
+       A1.500,1.500 0 0,1 0.000,17.980
+       A1.500,1.500 0 0,1 -1.500,16.480
+       L-1.500 -16.480
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(67.640 61.035)">
+      <path  d="
+       M-1.500 -16.480
+       A1.500,1.500 0 0,1 0.000,-17.980
+       A1.500,1.500 0 0,1 1.500,-16.480
+       L1.500 16.480
+       A1.500,1.500 0 0,1 0.000,17.980
+       A1.500,1.500 0 0,1 -1.500,16.480
+       L-1.500 -16.480
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(152.200 61.035)">
+      <path  d="
+       M-1.500 -16.480
+       A1.500,1.500 0 0,1 0.000,-17.980
+       A1.500,1.500 0 0,1 1.500,-16.480
+       L1.500 16.480
+       A1.500,1.500 0 0,1 0.000,17.980
+       A1.500,1.500 0 0,1 -1.500,16.480
+       L-1.500 -16.480
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(169.110 61.035)">
+      <path  d="
+       M-1.500 -16.480
+       A1.500,1.500 0 0,1 0.000,-17.980
+       A1.500,1.500 0 0,1 1.500,-16.480
+       L1.500 16.480
+       A1.500,1.500 0 0,1 0.000,17.980
+       A1.500,1.500 0 0,1 -1.500,16.480
+       L-1.500 -16.480
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(186.020 61.035)">
+      <path  d="
+       M-1.500 -16.480
+       A1.500,1.500 0 0,1 0.000,-17.980
+       A1.500,1.500 0 0,1 1.500,-16.480
+       L1.500 16.480
+       A1.500,1.500 0 0,1 0.000,17.980
+       A1.500,1.500 0 0,1 -1.500,16.480
+       L-1.500 -16.480
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(202.930 61.035)">
+      <path  d="
+       M-1.500 -16.480
+       A1.500,1.500 0 0,1 0.000,-17.980
+       A1.500,1.500 0 0,1 1.500,-16.480
+       L1.500 16.480
+       A1.500,1.500 0 0,1 0.000,17.980
+       A1.500,1.500 0 0,1 -1.500,16.480
+       L-1.500 -16.480
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(88.920 83.535)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(130.920 83.535)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(88.920 38.535)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(130.920 38.535)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(224.200 83.535)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(266.200 83.535)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(224.200 38.535)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(266.200 38.535)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(287.480 61.035)">
+      <path  d="
+       M-1.500 -16.480
+       A1.500,1.500 0 0,1 0.000,-17.980
+       A1.500,1.500 0 0,1 1.500,-16.480
+       L1.500 16.480
+       A1.500,1.500 0 0,1 0.000,17.980
+       A1.500,1.500 0 0,1 -1.500,16.480
+       L-1.500 -16.480
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(16.910 14.160)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(33.820 21.780)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(50.730 14.160)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(67.640 21.780)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(101.470 21.780)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(118.370 14.160)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(135.290 21.780)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(152.200 14.160)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(169.110 21.780)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(186.020 14.160)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(202.930 21.780)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(219.840 14.160)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(236.760 21.780)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(253.660 14.160)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(270.580 21.780)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(287.480 14.160)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(84.550 14.160)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(4.450 156.205)">
+      <path  d="
+       M-1.750 0.000
+       A1.750,1.750 0 1,0 1.750,0.000
+A1.750,1.750 0 1,0 -1.750,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(152.200 156.205)">
+      <path  d="
+       M-1.750 0.000
+       A1.750,1.750 0 1,0 1.750,0.000
+A1.750,1.750 0 1,0 -1.750,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(299.950 156.205)">
+      <path  d="
+       M-1.750 0.000
+       A1.750,1.750 0 1,0 1.750,0.000
+A1.750,1.750 0 1,0 -1.750,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(299.950 5.605)">
+      <path  d="
+       M-1.750 0.000
+       A1.750,1.750 0 1,0 1.750,0.000
+A1.750,1.750 0 1,0 -1.750,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(152.200 5.605)">
+      <path  d="
+       M-1.750 0.000
+       A1.750,1.750 0 1,0 1.750,0.000
+A1.750,1.750 0 1,0 -1.750,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(4.450 5.605)">
+      <path  d="
+       M-1.750 0.000
+       A1.750,1.750 0 1,0 1.750,0.000
+A1.750,1.750 0 1,0 -1.750,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(16.910 83.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(50.730 83.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(67.640 83.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(33.820 38.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(33.820 83.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(16.910 38.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(50.730 38.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(67.640 38.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(169.110 38.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(152.200 38.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(186.020 38.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(202.930 38.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(169.110 83.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(152.200 83.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(186.020 83.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(202.930 83.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(287.480 38.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(287.480 83.535)">
+      <path  d="
+       M-1.500 0.000
+       A1.500,1.500 0 1,0 1.500,0.000
+A1.500,1.500 0 1,0 -1.500,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(88.920 61.035)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(130.920 61.035)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(224.200 61.035)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(266.200 61.035)">
+      <path  d="
+       M-3.600 0.000
+       A3.600,3.600 0 1,0 3.600,0.000
+A3.600,3.600 0 1,0 -3.600,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(109.920 68.535)">
+      <path  d="
+       M-2.000 0.000
+       A2.000,2.000 0 1,0 2.000,0.000
+A2.000,2.000 0 1,0 -2.000,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(109.920 63.535)">
+      <path  d="
+       M-2.000 0.000
+       A2.000,2.000 0 1,0 2.000,0.000
+A2.000,2.000 0 1,0 -2.000,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(109.920 58.535)">
+      <path  d="
+       M-2.000 0.000
+       A2.000,2.000 0 1,0 2.000,0.000
+A2.000,2.000 0 1,0 -2.000,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(109.920 53.535)">
+      <path  d="
+       M-2.000 0.000
+       A2.000,2.000 0 1,0 2.000,0.000
+A2.000,2.000 0 1,0 -2.000,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(245.200 68.535)">
+      <path  d="
+       M-2.000 0.000
+       A2.000,2.000 0 1,0 2.000,0.000
+A2.000,2.000 0 1,0 -2.000,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(245.200 63.535)">
+      <path  d="
+       M-2.000 0.000
+       A2.000,2.000 0 1,0 2.000,0.000
+A2.000,2.000 0 1,0 -2.000,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(245.200 58.535)">
+      <path  d="
+       M-2.000 0.000
+       A2.000,2.000 0 1,0 2.000,0.000
+A2.000,2.000 0 1,0 -2.000,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front back"  transform="translate(245.200 53.535)">
+      <path  d="
+       M-2.000 0.000
+       A2.000,2.000 0 1,0 2.000,0.000
+A2.000,2.000 0 1,0 -2.000,0.000
+       "
+       fill="#ffffff" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  />
+    </g>
+    <g fpd:print_element="0" fpd:visible="front"  >
+      <path  d="
+       M301.400 161.800
+       A3.000,3.000 0 0,0 304.400,158.800
+       L304.400 3.000
+       A3.000,3.000 0 0,0 301.400,0.000
+       L3.000 0.000
+       A3.000,3.000 0 0,0 0.000,3.000
+       L0.000 158.800
+       A3.000,3.000 0 0,0 3.000,161.800
+       L301.400 161.800
+       "
+       fill="none" vector-effect="non-scaling-stroke" stroke="#000000" stroke-width="1.000"  stroke-dasharray="2% 3%"  />
+    </g>
+    <g layer="reference_cross"  >
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,282 @@
+--------------------------------------------------------------------------------
+Translator Name    : Spatial InterOp Connect ( Version : 2022 1.0.1 )
+System Name        : Windows_NT
+Machine Name       : HAL2019
+User Name          : andre
+Source System      : ACIS
+Destination System : STEP
+Input File         : C:\Users\andre\AppData\Local\Temp\Convert\~_A6D5.asat
+Output File        : E:\Users\andreas\Documents\Eigene Projekte\Projekt Rebirth-Deck\momentary-push-button-switch-5.snapshot.1\pushbutton ASM.stp
+Start Time         : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : TranslateSuppressedEntities : false
+Message : ReadVisibleLayerOnly : true
+Message : TranslateFreePoints : true
+Message : TranslateFreeCurves : true
+Message : Flatten : false
+Message : SetAuthorName : 3D-Tool
+Message : Step.WriteValRepItemForDescRepItem : false
+Message : AssemblySearchPath : C:\Users\andre\AppData\Local\Temp\Convert
+Message : TranslateWorkPlanes : false
+Message : TranslateHiddenEntities : false
+Message : TranslateAttributes : true
+Message : Representation : Assembly
+Message : TranslateAssemblies : true
+Message : Healing : true
+Message : AuthorName : 3D-Tool
+Message : EnableWideCharacter : true
+Message : ===========================
+-------------------------Source File Header Information-------------------------
+Modification Date        : 21 Nov 2022
+File Name                : ~_A6D5.asat
+Organization             : SPATIAL - INTEROP Version - 32.0.1
+Version                  : 3200
+Units                    : MILLIMETER
+Tolerance                : 0.000001
+Document Type            : Assembly
+Format Type              : ACIS
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start Assembly
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Assembly Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Assembly Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start Translation of Part Definition Document In Assembly
+--------------------------------------------------------------------------------
+Source System      : ACIS
+Destination System : STEP
+Start Time         : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : TranslateSuppressedEntities : false
+Message : ReadVisibleLayerOnly : true
+Message : TranslateFreePoints : true
+Message : TranslateFreeCurves : true
+Message : Flatten : false
+Message : SetAuthorName : 3D-Tool
+Message : Step.WriteValRepItemForDescRepItem : false
+Message : AssemblySearchPath : C:\Users\andre\AppData\Local\Temp\Convert
+Message : TranslateWorkPlanes : false
+Message : TranslateHiddenEntities : false
+Message : TranslateAttributes : true
+Message : TranslateAssemblies : true
+Message : Healing : true
+Message : AuthorName : 3D-Tool
+Message : EnableWideCharacter : true
+Message : ===========================
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+------------------------Representation Conversion Summary-----------------------
+No. of Solid Bodies                       :    1
+No. of Wire Bodies                        :    0
+No. of Curve Sets                         :    0
+No. of Geometric Sets                     :    0
+No. of Sheet Bodies                       :    0
+--------------------------------------------------------------------------------
+BRep Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start DocumentFeature
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Preprocessing Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End DocumentFeature
+------------------------Representation Conversion Summary-----------------------
+No. of Selection Sets                     :    0
+--------------------------------------------------------------------------------
+DocumentFeature Conversion Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of DocumentFeature Representation :    0
+No. of Items of BRep Representation            :    1
+--------------------------------------------------------------------------------
+Finish Time : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End Translation of Part Definition Document In Assembly
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start Translation of Part Definition Document In Assembly
+--------------------------------------------------------------------------------
+Source System      : ACIS
+Destination System : STEP
+Start Time         : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+Message : === Translation Options ===
+Message : TranslateSuppressedEntities : false
+Message : ReadVisibleLayerOnly : true
+Message : TranslateFreePoints : true
+Message : TranslateFreeCurves : true
+Message : Flatten : false
+Message : SetAuthorName : 3D-Tool
+Message : Step.WriteValRepItemForDescRepItem : false
+Message : AssemblySearchPath : C:\Users\andre\AppData\Local\Temp\Convert
+Message : TranslateWorkPlanes : false
+Message : TranslateHiddenEntities : false
+Message : TranslateAttributes : true
+Message : TranslateAssemblies : true
+Message : Healing : true
+Message : AuthorName : 3D-Tool
+Message : EnableWideCharacter : true
+Message : ===========================
+--------------------------------------------------------------------------------
+Source Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start BRep
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+BRep Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End BRep
+------------------------Representation Conversion Summary-----------------------
+No. of Solid Bodies                       :    1
+No. of Wire Bodies                        :    0
+No. of Curve Sets                         :    0
+No. of Geometric Sets                     :    0
+No. of Sheet Bodies                       :    0
+--------------------------------------------------------------------------------
+BRep Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Start DocumentFeature
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Preprocessing Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Preprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+DocumentFeature Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End DocumentFeature
+------------------------Representation Conversion Summary-----------------------
+No. of Selection Sets                     :    0
+--------------------------------------------------------------------------------
+DocumentFeature Conversion Result : No Entity to Translate
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of DocumentFeature Representation :    0
+No. of Items of BRep Representation            :    1
+--------------------------------------------------------------------------------
+Finish Time : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End Translation of Part Definition Document In Assembly
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Assembly Source Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Assembly Target Representation Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+End Assembly
+------------------------Representation Conversion Summary-----------------------
+No. of Assemblies                         :    1
+--------------------------------------------------------------------------------
+Assembly Conversion Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Target Document Postprocessing Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+---------------------------Document Conversion Summary--------------------------
+No. of Items of Assembly Representation        :    1
+--------------------------------------------------------------------------------
+Output File "E:\Users\andreas\Documents\Eigene Projekte\Projekt Rebirth-Deck\momentary-push-button-switch-5.snapshot.1\pushbutton ASM.stp" is Successfully Written
+--------------------------------------------------------------------------------
+Finish Time : Mon Nov 21 16:56:45 2022
+
+--------------------------------------------------------------------------------
+Translation Result : Success
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
